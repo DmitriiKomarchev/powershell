@@ -5,7 +5,7 @@ sample:
   generateZip: true
   author: ant
   languages:
-  - powershell
+  - PowerShell
   technologies:
   - advanced-threat-analytics
   ci_config:
