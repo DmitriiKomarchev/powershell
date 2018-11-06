@@ -3,9 +3,9 @@ sample:
 - name: PowerShell sample
   description: A sample that shows simple PS script 
   generateZip: true
-  author: ant
+  author: author
   languages:
-  - PowerShell
+  - powershell
   technologies:
   - advanced-threat-analytics
   ci:
