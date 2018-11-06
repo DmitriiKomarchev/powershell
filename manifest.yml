@@ -8,6 +8,6 @@ sample:
   - PowerShell
   technologies:
   - advanced-threat-analytics
-  ci:
+  ci_config:
   - path: \PowerShellSample
     template: powershell
